@@ -8,7 +8,7 @@
 
 ---
 
-## What Fresh Hell is This?
+## What Fresh Heck is This?
 
 Let's face it: you're tired of:
 - Installing existing CLIs on every machine you work on
