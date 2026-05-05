@@ -1,7 +1,7 @@
 # GoWatcher: Because Your F5 Key Deserves a Break 🎯
 
 [![Go Version](https://img.shields.io/github/go-mod/go-version/cinfinit/gowatcher)](https://github.com/cinfinit/gowatcher)
-[![Downloads](https://img.shields.io/github/downloads/cinfinit/gowatcher/total)](https://github.com/cinfinit/gowatcher/releases)
+[![Dev Details](https://img.shields.io/badge/dev_details-green)](https://pkg.go.dev/github.com/cinfinit/gowatcher)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > *The embeddable live-reload library that doesn't make you install yet another CLI tool.*
